@@ -10,7 +10,7 @@ This project serves as a practical foundation for my studies in **Computational 
 
 ### 1. Special Functions and Plots
 
-* **Quantum Harmonic Oscillator (`Special_Functions/harmonic_oscillator.cpp`)**
+* **Quantum Harmonic Oscillator ([`Special_Functions/harmonic_oscillator.cpp`](/Special_Functions/harmonic_oscillator.cpp)):**
   Generate numerical data for normalized wavefunctions
   $\psi_n(x) = \frac{1}{\sqrt{2^n n! \sqrt{\pi}}} H_n(x) e^{-\frac{x^2}{2}}$
   of a Quantum Harmonic Oscillator for $n = 0, 1, 2, 3$ using Hermite Polynomials
@@ -19,7 +19,7 @@ This project serves as a practical foundation for my studies in **Computational 
 
 ### 2. Root Finding Algorithms
 
-* **Bisection Method (`Root_Finding/bisection.cpp`)**: 
+* **Bisection Method ([`Root_Finding/bisection.cpp`](/Root_Finding/bisection.cpp)):** 
    Find roots for $f(x) = x - \cos(x) = 0$ in the range $[0, 1]$ with an accuracy of $10^{-4}$.
 
 
