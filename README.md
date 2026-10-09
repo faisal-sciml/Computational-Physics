@@ -25,7 +25,7 @@ This project serves as a practical foundation for my studies in **Computational 
 
 ---
 
-## 📊 Visualizations
+## 📊 Graphs and Plots
 
 Below is the plotted graph of the **Quantum Harmonic Oscillator Wavefunctions** generated using C++ data and rendered with `gnuplot`:
 
