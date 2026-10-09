@@ -10,8 +10,8 @@ This project serves as a practical foundation for my studies in **Computational 
 
 ### 1. Root Finding Algorithms
 
-* **Bisection Method (`01_Root_Finding/bisection.cpp`)**: 
-   Finds roots for $f(x) = x - \cos(x) = 0$ in the range $[0, 1]$ with an accuracy of $10^{-4}$.
+* **Bisection Method (`Root_Finding/bisection.cpp`)**: 
+   Find roots for $f(x) = x - \cos(x) = 0$ in the range $[0, 1]$ with an accuracy of $10^{-4}$.
 
 ### 2. Quantum Mechanics & Wavefunctions
 * **Quantum Harmonic Oscillator (`harmonic_oscillator.cpp`)**: Calculation and data generation for Quantum Harmonic Oscillator wavefunctions $\psi_n(x)$ using Hermite Polynomials for $n = 0, 1, 2, 3$.
